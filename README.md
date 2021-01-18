@@ -10,5 +10,8 @@
 
 ### Тетрадки к лекциям и записи лекций
 
-[Лекция 2021.01.18]() - Numpy
+[Лекция 2021.01.18](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210118_numpy.ipynb) - Numpy
+
+[Лекция 2021.01.19](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210119_Pandas.ipynb) - Pandas
+
 
