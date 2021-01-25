@@ -15,4 +15,6 @@
 
 [Лекция 2021.01.19](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210119_Pandas.ipynb) - Pandas
 
+[Лекция 2021.01.25](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210125_image_processing.ipynb) - Обработка изображений: PIL, SciPy Image Processing
+
 
