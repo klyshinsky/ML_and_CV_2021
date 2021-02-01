@@ -17,4 +17,4 @@
 
 [Лекция 2021.01.25](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210125_image_processing.ipynb) - Обработка изображений: PIL, SciPy Image Processing
 
-
+[Лекция 2021.02.01](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210201_clustering.ipynb) - Методы кластеризации.
