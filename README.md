@@ -16,7 +16,7 @@
 [Лекция 2021.01.19](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210119_Pandas.ipynb) - Pandas
 
 [Лекция 2021.01.25](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210125_image_processing.ipynb) - Обработка изображений: PIL, SciPy Image Processing  
-[Видео лекции 1](https://youtu.be/R8pJLx2HAjA)
+[Видео лекции 1](https://youtu.be/R8pJLx2HAjA)  
 [Видео лекции 2](https://youtu.be/oQ0WONVZ-Gs)
 
 [Лекция 2021.02.08-22](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210201_clustering.ipynb) - Методы кластеризации.  
