@@ -23,4 +23,8 @@
 [Видео лекции 1](https://youtu.be/5CW_rfuwszI)  
 [Видео лекции 2](https://youtu.be/OfTaXUA00f8)
 
-[Лекция 2021.03.01](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210301_OpenCV.ipynb) - Обработка видео при помощи OpenCV.
+[Лекция 2021.03.01](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210301_OpenCV.ipynb) - Обработка видео при помощи OpenCV.  
+[Видео лекции](https://youtu.be/pLaq-uP8n6I)
+
+[Лекция 2021.03.15](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210315_Classification.ipynb) - Классификация методами k-ближайших соседей, линейной и логистической регрессии.
+
