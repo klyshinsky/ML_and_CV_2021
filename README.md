@@ -29,3 +29,5 @@
 [Лекция 2021.03.15](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210315_Classification.ipynb) - Классификация методами k-ближайших соседей, линейной и логистической регрессии.
 
 [Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210405_DecisionTrees.ipynb) - Классификация с использованием деревьев принятия решений.
+
+[Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210412_Ensamble.ipynb) - Ансамблевые методы классификации.
