@@ -26,8 +26,14 @@
 [Лекция 2021.03.01](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210301_OpenCV.ipynb) - Обработка видео при помощи OpenCV.  
 [Видео лекции](https://youtu.be/pLaq-uP8n6I)
 
-[Лекция 2021.03.15](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210315_Classification.ipynb) - Классификация методами k-ближайших соседей, линейной и логистической регрессии.
+[Лекция 2021.03.15](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210315_Classification.ipynb) - Классификация методами k-ближайших соседей, линейной и логистической регрессии.  
+[Видео лекции 1](https://youtu.be/QBkjO7D8dx0)  
+[Видео лекции 2](https://youtu.be/nSttoTLOyfI)  
 
-[Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210405_DecisionTrees.ipynb) - Классификация с использованием деревьев принятия решений.
+[Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210405_DecisionTrees.ipynb) - Классификация с использованием деревьев принятия решений.  
+[Видео лекции](https://youtu.be/1OcbFauPBh0)
 
-[Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210412_Ensamble.ipynb) - Ансамблевые методы классификации.
+[Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210412_Ensamble.ipynb) - Ансамблевые методы классификации.  
+[Видео лекции](https://youtu.be/4ONpc7SSpVM)
+
+[Лекция 2021.04.05](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210419_text_processing.ipynb) - Основы обработки текстов на естественном языке.
