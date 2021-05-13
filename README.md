@@ -41,3 +41,6 @@
 [Видео лекции](https://youtu.be/dV7VBDXCDLs)
 
 [Лекция 2021.04.26, часть 1](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210419_3_requests.ipynb) - Загрузка данных при помощи requests.  
+[Видео лекции](https://youtu.be/31mcqjbGH8E)
+
+[Лекция 2021.05.14](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210514-W2V.ipynb) - Word2Vec - представление текста в виде семантического вектора
