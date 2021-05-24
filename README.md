@@ -44,3 +44,6 @@
 [Видео лекции](https://youtu.be/31mcqjbGH8E)
 
 [Лекция 2021.05.14](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210514-W2V.ipynb) - Word2Vec - представление текста в виде семантического вектора
+
+[Лекция 2021.05.24](https://github.com/klyshinsky/ML_and_CV_2021/blob/main/Lecture_20210524_Neural_Networks_Dense_CNN_RNN.ipynb) - Работа с полтными нейронными сетями в SkLearn.
+
